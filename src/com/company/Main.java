@@ -4,7 +4,35 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-    System.out.print("HI");
+int firstnumber,secondnumber;
+
+firstnumber= 5;
+secondnumber= 10;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     }
