@@ -4,22 +4,18 @@ public class Main {
 
     public static void main(String[] args) {
         // write your code here
-        int firstNumber,secondNumber,total;
+        int firstnumber,secondnumber;
 
-        firstNumber= 5;
-        secondNumber= 10;
-        total= firstNumber+secondNumber;
-        total= total + 10;
-        
+        firstnumber= 5;
+        secondnumber= 10;
 
-        System.out.println(total);
-        System.out.println("firstnumber + secondNumber is "+ (firstNumber+secondNumber) );
-        System.out.println("firstnumber - secondNumber is "+ (firstNumber-secondNumber) );
-        System.out.println("firstnumber / secondNumber is "+ (firstNumber/secondNumber) );
-        System.out.println("firstnumber * secondNumber is "+ (firstNumber*secondNumber) );
-        System.out.println("firstnumber * secondNumber is "+ (firstNumber*secondNumber) );
-        System.out.println("The modulus of the secondNumber by the firstNumber " + "is " + (secondNumber%firstNumber));
-
+//        System.out.print("firstnumber + secondnumber is"+ (firstnumber+secondnumber) );
+//        System.out.print("firstnumber - secondnumber is"+ (firstnumber-secondnumber) );
+//        System.out.print("firstnumber / secondnumber is"+ (firstnumber/secondnumber) );
+//        System.out.print("firstnumber * secondnumber is"+ (firstnumber*secondnumber) );
+//        System.out.print("firstnumber * secondnumber is"+ (firstnumber*secondnumber) );
+//
+//
 
 
 
